@@ -1,0 +1,4 @@
+DECLARE Countryname : STRING
+OUTPUT "Please Enter Your Country Name"
+INPUT Countryname
+OUTPUT " Your country is ",Countryname

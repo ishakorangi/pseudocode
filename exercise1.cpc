@@ -1,0 +1,6 @@
+DECLARE USDAmount : REAL
+DECLARE EuroAmount : REAL
+OUTPUT " Please Enter The Amount In Dollers:"
+INPUT USDAmount
+Amount Euros < - USDAmount * o.85"
+OUTPUT "the amount in euro is:",EUROAmount
